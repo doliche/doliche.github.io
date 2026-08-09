@@ -4,7 +4,9 @@ title = 'Doliche'
 theme = 'PaperMod'
 
 [params]
+  [params]
   comments = true
   defaultTheme = 'auto'
-  googleSiteVerification = "mol3RVkfmc5AzN_Jaov777_9x39UxeT_KyLgGP5yC8Y"
-  
+  googleAnalytics = ""
+  [params.analytics.google]
+    SiteVerificationTag = "mol3RVkfmc5AzN_Jaov777_9x39UxeT_KyLgGP5yC8Y"
