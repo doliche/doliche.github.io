@@ -1,6 +1,6 @@
 ---
 title: "DOLICHE / DÜLÜK: Gaziantep'in 600.000 Yıllık Hafızası" 
-date: 2026-08-09T21:00:00+03:00
+date: 2026-08-05
 draft: false
 ---
 
