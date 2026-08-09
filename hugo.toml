@@ -2,3 +2,7 @@ baseURL = 'https://doliche.github.io/'
 languageCode = 'tr-tr'
 title = 'Doliche'
 theme = 'PaperMod'
+
+[params]
+  comments = true
+  defaultTheme = 'auto'
