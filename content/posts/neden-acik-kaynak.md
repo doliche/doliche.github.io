@@ -24,6 +24,7 @@ Nice 17. Yıllara
 
 Bunu öğrendiğimde biraz saflığımı fark ettim açıkçası. Biraz da her yerinden reklam fırlayan çin malı telefonumun verdiği yorgunluk sonucu feraha ve refaha kavuştum. Geçiş de kolay olmadı; ilk haftalarda her ihtiyacım olduğunda "acaba açık kaynak bir karşılığı var mı" diye aramaya başladım. Bazı uygulamaların hiç alternatifi yok, bazılarının arayüzü alıştığım kadar boyalu cilalı değil. Ama zamanla fark ettim ki o cila dediğim şeyin büyük kısmı, aslında reklam altyapısının ve arka planda çalışan veri toplama katmanlarının bir sonucuymuş. Sade bir uygulama bazen sadece sadedir; illa bir şey eksik olduğu için değil.
 
+/opensource.png
 
 >>Fotoğraflarım ve Google'dan Çıkış Yolu
 
