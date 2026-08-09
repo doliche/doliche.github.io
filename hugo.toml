@@ -3,11 +3,24 @@ languageCode = 'tr-tr'
 title = 'Doliche'
 theme = 'PaperMod'
 
+# Arama motorunun (Search) çalışması için gerekli çıktı formatı
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [params]
   comments = true
   defaultTheme = 'auto'
 
-  # Favicon Ayarı (static/ klasörüne yüklediğiniz dosya)
+  # Özellikler (Okuma Süresi, Butonlar, Navigasyon)
+  ShowReadingTime = true        # Okuma süresi gösterilsin
+  ShowShareButtons = true      # Sosyal medya paylaşım butonları gösterilsin
+  ShowPostNavLinks = true      # Önceki / Sonraki yazı butonları gösterilsin
+  ShowCodeCopyButtons = true   # Kod bloklarında "Kopyala" butonu gösterilsin
+  
+  # Yayınlanma tarihi varsayılan olarak aktiftir. 
+  # Yazar adı eklenmemiştir.
+
+  # Favicon Ayarı
   [params.assets]
     favicon = "/favicon.ico"
 
@@ -15,3 +28,16 @@ theme = 'PaperMod'
   [params.homeInfoParams]
     Title = "Doliche'ye Hoş Geldiniz 👋"
     Content = "Antik çağlardan dijital dünyaya uzanan kişisel notlar. Yazılım, açık kaynak teknolojiler, elektronik, dijital sistemler ve bağımsız projeler üzerine teknik rehberler ve güncel yazılar."
+
+# Sitenin Üst Menüsü (Etiketler çıkarıldı)
+[[menu.main]]
+  identifier = "posts"
+  name = "Yazılar"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "search"
+  name = "Ara 🔍"
+  url = "/search/"
+  weight = 20
