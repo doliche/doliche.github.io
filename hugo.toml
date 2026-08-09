@@ -6,3 +6,12 @@ theme = 'PaperMod'
 [params]
   comments = true
   defaultTheme = 'auto'
+
+  # Favicon Ayarı (static/ klasörüne yüklediğiniz dosya)
+  [params.assets]
+    favicon = "favicon.ico"
+
+  # Ana Sayfa Karşılama Notu
+  [params.homeInfoParams]
+    Title = "Doliche'ye Hoş Geldiniz 👋"
+    Content = "Antik çağlardan dijital dünyaya uzanan kişisel notlar. Yazılım, açık kaynak teknolojiler, elektronik, dijital sistemler ve bağımsız projeler üzerine teknik rehberler ve güncel yazılar."
