@@ -1,4 +1,9 @@
-# İnsanlık Neden Geç Gelişti? Teknolojik İlerlemenin Hızlanma Sebebi
+---
+title: "İnsanlık Neden Geç Gelişti? Teknolojik İlerlemenin Hızlanma Sebebi" 
+date: 2026-08-06
+draft: false
+---
+
 
 ## Bir Akşamüstü Düşüncesi
 
