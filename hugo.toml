@@ -7,6 +7,4 @@ theme = 'PaperMod'
   [params]
   comments = true
   defaultTheme = 'auto'
-  googleAnalytics = ""
-  [params.analytics.google]
-    SiteVerificationTag = "mol3RVkfmc5AzN_Jaov777_9x39UxeT_KyLgGP5yC8Y"
+ 
