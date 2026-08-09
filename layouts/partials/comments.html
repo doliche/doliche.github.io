@@ -1,8 +1,11 @@
+{{- if .Site.Params.comments -}}
 <div id="cusdis_thread"
   data-host="https://cusdis.com"
   data-app-id="1fe184d6-3539-4d1f-b5c9-767772a44d3b"
-  data-page-id="{{ PAGE_ID }}"
-  data-page-url="{{ PAGE_URL }}"
-  data-page-title="{{ PAGE_TITLE }}"
+  data-page-id="{{ .File.UniqueID }}"
+  data-page-url="{{ .Permalink }}"
+  data-page-title="{{ .Title }}"
 ></div>
+
 <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+{{- end -}}
