@@ -1,5 +1,7 @@
 {{- if .Site.Params.comments -}}
-<div style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+<section class="comments-wrapper" style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+  <h3 style="margin-bottom: 1.5rem; font-size: 1.3rem; color: var(--primary);">Yorumlar</h3>
+  
   <div id="cusdis_thread"
     data-host="https://cusdis.com"
     data-app-id="1fe184d6-3539-4d1f-b5c9-767772a44d3b"
@@ -8,16 +10,36 @@
     data-page-title="{{ .Title }}"
     data-theme="auto"
   ></div>
-</div>
+</section>
 
 <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
 
 <style>
+  /* Iframe boyutunu otomatik ayarla ve kaydırma çubuğunu yok et */
+  #cusdis_thread {
+    width: 100% !important;
+    overflow: hidden !important;
+  }
+  
   #cusdis_thread iframe {
     width: 100% !important;
-    min-height: 250px !important;
+    height: 100% !important;
+    min-height: 350px !important;
     border: none !important;
-    background: transparent !important;
+    background-color: transparent !important;
+    color-scheme: normal !important;
   }
 </style>
+
+<script>
+  // Cusdis iframe yüklenince yüksekliğini otomatik içeriğe göre eşitleyen kod
+  window.addEventListener('message', function (e) {
+    if (e.data && e.data.from === 'cusdis') {
+      const iframe = document.querySelector('#cusdis_thread iframe');
+      if (iframe && e.data.event === 'resize') {
+        iframe.style.height = e.data.data + 'px';
+      }
+    }
+  });
+</script>
 {{- end -}}
