@@ -1,11 +1,23 @@
 {{- if .Site.Params.comments -}}
-<div id="cusdis_thread"
-  data-host="https://cusdis.com"
-  data-app-id="1fe184d6-3539-4d1f-b5c9-767772a44d3b"
-  data-page-id="{{ .File.UniqueID }}"
-  data-page-url="{{ .Permalink }}"
-  data-page-title="{{ .Title }}"
-></div>
+<div style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+  <div id="cusdis_thread"
+    data-host="https://cusdis.com"
+    data-app-id="1fe184d6-3539-4d1f-b5c9-767772a44d3b"
+    data-page-id="{{ .File.UniqueID }}"
+    data-page-url="{{ .Permalink }}"
+    data-page-title="{{ .Title }}"
+    data-theme="auto"
+  ></div>
+</div>
 
 <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+
+<style>
+  #cusdis_thread iframe {
+    width: 100% !important;
+    min-height: 250px !important;
+    border: none !important;
+    background: transparent !important;
+  }
+</style>
 {{- end -}}
