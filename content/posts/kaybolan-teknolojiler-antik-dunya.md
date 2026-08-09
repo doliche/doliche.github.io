@@ -1,4 +1,9 @@
-# Kaybolan Teknolojiler: Antik Dünya Bizden Daha mı İleriydi?
+---
+title: "Kaybolan Teknolojiler: Antik Dünya Bizden Daha mı İleriydi?" 
+date: 2026-08-08
+draft: false
+---
+
 
 *"Eskiden her şey daha iyiydi" demiştim, sonra dedim ki: bir de araştırayım.*
 
