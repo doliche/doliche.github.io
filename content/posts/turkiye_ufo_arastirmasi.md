@@ -1,4 +1,10 @@
-# Türkiye'de UFO ve Uzaylı Vakaları: Osmanlı'dan Gaziantep'e, Kişisel Bir Araştırma
+---
+title: "Türkiye'de UFO ve Uzaylı Görme Vakaları: Osmanlı'dan Gaziantep'e Tarihçe ve Kaynaklar" 
+date: 2026-08-07
+draft: false
+---
+
+Türkiye'de UFO ve Uzaylı Görme Vakaları: Osmanlı'dan Gaziantep'e Tarihçe ve Kaynaklar
 
 *Tarih: 9 Ağustos 2026, Gaziantep*
 
@@ -54,7 +60,7 @@ II. Dünya Savaşı'ndan sonra dünyayı saran "uçan daire" çılgınlığı T�
 
 Amerikan gizli UFO belgelerinde Türkiye adı ilk kez 1948'de geçiyor. Ankara'dan gönderilen istihbarat bilgisinde "Yeni Sabah" gazetesinde çıkan haberden alıntı yapılıyor ve Adapazarı civarında bir "tanımlanamayan uçan cisim" görüldüğü bilgisi veriliyor ([Euronews](https://tr.euronews.com/2015/01/20/amerikan-gizli-ufo-belgelerinde-turkiye)).
 
-> Şaka bir yana, 1947-1948 döneminde dünyada herkes UFO görüyordu. Kenneth Arnold'un 1947'de Washington'da 9 nesne gördüğünü bildirmesiyle başlayan dalga, Türkiye gazetelerine de yansımıştı. Kaç tanesi gerçekti, kaçı gazete satmak için şişirilmişti? Bunu söylemek zor. Ama "uçan daire" kavramının Türkiye'ye girişi bu döneme denk geliyor ([Independent Türkçe](https://www.indyturk.com/node/393516/bi%25CC%2587li%25CC%2587m/komplo-teorilerinden-ulusal-g%25C3%25BCvenlik-meselesine-ufolar%25C4%25B1n-tarihi)).
+> 1947-1948 döneminde dünyada herkes UFO görüyordu. Kenneth Arnold'un 1947'de Washington'da 9 nesne gördüğünü bildirmesiyle başlayan dalga, Türkiye gazetelerine de yansımıştı. Kaç tanesi gerçekti, kaçı gazete satmak için şişirilmişti? Bunu söylemek zor. Ama "uçan daire" kavramının Türkiye'ye girişi bu döneme denk geliyor ([Independent Türkçe](https://www.indyturk.com/node/393516/bi%25CC%2587li%25CC%2587m/komplo-teorilerinden-ulusal-g%25C3%25BCvenlik-meselesine-ufolar%25C4%25B1n-tarihi)).
 
 ### 1948 Adana: Cumhuriyet'in İlk Modern UFO Raporu
 
