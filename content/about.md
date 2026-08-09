@@ -1,32 +1,36 @@
 ---
 title: "Hakkımda"
 layout: "about"
-summary: "Doliche projesi, odak alanları ve dijital arşiv hakkında bilgi."
+summary: "Doliche projesi, sahadan dijital dünyaya uzanan tecrübeler, hayatın içinden notlar ve odak alanları."
 ---
 
 ## Dijital Bir Arşiv: Doliche
 
-**Doliche**, kökenini Antep'in antik çağlara uzanan köklü tarihinden alan; günümüzde ise teknik tecrübelerin, yazılım notlarının ve bağımsız projelerin belgelendiği kişisel bir dijital arşivdir.
+**Doliche**, ismini Antep'in antik çağlara uzanan köklü tarihinden alan; hem sahadaki somut hayat tecrübelerinin hem de dijital dünyadaki teknik Notların belgelendiği bağımsız ve anonim kalmaya çalışan bir kişisel arşivdir.
 
-Geçmişin kalıcı izlerini günümüzün açık kaynak dünyası ve dijital sistemleriyle buluşturma fikriyle ortaya çıkmıştır.
-
----
-
-### Odak Alanları ve İçerik
-
-Bu blogda ağırlıklı olarak aşağıdaki konular üzerine teknik rehberler, pratik çözümler ve kişisel notlar yer almaktadır:
-
-* 🛠️ **Yazılım & Açık Kaynak:** Özgür yazılımlar, dijital araçlar, açık kaynak ekosistemi ve pratik çözümler.
-* ⚡ **Elektronik & Sistemler:** Donanım, devreler, kart bazlı çözümler ve teknik arıza/bakım tecrübeleri.
-* 🔍 **Teknik Rehberler:** Karşılaşılan sorunlara yönelik adım adım çözüm adımları ve ipuçları.
-* 🚀 **Bağımsız Projeler:** Geliştirilen uygulamalar, otomasyonlar ve dijital deneyimler.
+Burası sadece kodlardan ve komut satırlarından ibaret bir alan değil. Günlük hayatın akışı, masadaki havyadan çıkan lehim dumanı, çözülen zorlu bir donanım arızası, ticari hayatın içinden süzülen deneyimler ve hayata dair içimden geçenlerin bir araya geldiği bir durak.
 
 ---
 
-### İletişim & Katkı
+### Sahadan Masaya: Ne Yapıyorum?
 
-Projeleri incelemek, koda katkıda bulunmak veya iletişim kurmak için aşağıdaki bağlantıları kullanabilirsiniz:
+Hayatım ve ilgilerim tek bir kalıba sığmaktan ziyade, sorun çözmek ve üretmek üzerine kurulu:
 
-* **GitHub:** [github.com/doliche](https://github.com/doliche)
-* **RSS Beslemesi:** Sitedeki yeni yazıları [RSS](/index.xml) üzerinden takip edebilirsiniz.
+* 🛠️ **Elektronik & Donanım:** Elektronik kartlar, komponent düzeyinde arıza tespiti, devreler ve pratik donanım çözümleri.
+* 💻 **Yazılım & Açık Kaynak:** Özgür yazılım ekosistemi, dijital araçlar, otomasyonlar ve teknik rehberler.
+* 🛍️ **Ticaret & Saha Deneyimi:** Fiziksel ve dijital ticarette yaşananlar, süreç yönetimi ve hayatın getirdiği pratik tecrübeler.
+* ✍️ **Hayatın İçinden:** Yaşanmışlıklar, gözlemler, deneme-yanılma süreçleri ve içimden geçen samimi notlar.
 
+---
+
+### Felsefe
+
+Teoriden ziyade **pratiğe**, karmaşa yerine **sadeliğe** ve bağımsızlığa değer veriyorum. Bir problemi çözerken mantığını anlamak, lehim havşasını tutarken de kod yazarken de aynı heyecanı duymak bu bloğun temel motivasyonudur.
+
+---
+
+### İletişim
+
+Projeleri incelemek, koda veya fikirlere katkıda bulunmak ya da iletişime geçmek için bir yol vermek istemiyorum. Bağımsızlık ve gizliliğime önem veriyorum.:
+
+* **RSS Beslemesi:** Yeni yazıları [RSS](/index.xml) üzerinden takip edebilirsiniz.
