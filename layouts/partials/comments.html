@@ -8,14 +8,26 @@
     data-page-id="{{ .File.UniqueID }}"
     data-page-url="{{ .Permalink }}"
     data-page-title="{{ .Title }}"
-    data-theme="auto"
+    data-theme="dark"
   ></div>
 </section>
+
+<script>
+  // Cusdis Türkçe Metin Özelleştirmeleri
+  window.CUSDIS_LOCALE = {
+    powered_by: '',
+    post_comment: 'Gönder',
+    loading: 'Yükleniyor...',
+    email: 'E-Mail',
+    nickname: 'İsim',
+    reply_content: 'Yorum',
+    reply: 'Yanıtla'
+  };
+</script>
 
 <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
 
 <style>
-  /* Iframe boyutunu otomatik ayarla ve kaydırma çubuğunu yok et */
   #cusdis_thread {
     width: 100% !important;
     overflow: hidden !important;
@@ -27,12 +39,13 @@
     min-height: 350px !important;
     border: none !important;
     background-color: transparent !important;
-    color-scheme: normal !important;
+    /* Gri/koyu arka planda yazıların net okunması için renk filtresi */
+    filter: brightness(1.2) contrast(1.1);
   }
 </style>
 
 <script>
-  // Cusdis iframe yüklenince yüksekliğini otomatik içeriğe göre eşitleyen kod
+  // Yüksekliği içeriğe göre otomatik ayarlayan kod
   window.addEventListener('message', function (e) {
     if (e.data && e.data.from === 'cusdis') {
       const iframe = document.querySelector('#cusdis_thread iframe');
