@@ -1,11 +1,18 @@
+---
+title: "DOLICHE / DÜLÜK: Gaziantep'in 600.000 Yıllık Hafızası" 
+date: 2026-08-09
+draft: false
+---
+
 # DOLICHE / DÜLÜK: Gaziantep'in 600.000 Yıllık Hafızası
 
-### Bir Antep Çocuğunun Derinlikli Arşiv Çalışması
+### Derinlikli Arşiv Çalışması
 
 ---
 
 > *"Şehrimizin altından bir uygarlık geçiyor — her gün üstünden yürüdüğümüz topraklar, bir zamanlar dünyanın en büyük tanrılarından birine ev sahipliği yapmıştı."*
 
+En başta bu şehirin sahipleri olarak kendi tarihimizden haberimiz yok. Hiç fotoğraf eklemedim verilen kaynaklardan fotoğraflara ulaşabilirsiniz.
 ---
 
 ## İçindekiler
@@ -35,9 +42,9 @@
 
 Gaziantep'te büyümüş biri olarak, Dülük'ü her zaman bildim. Çocukluğumda Dülükbaba Ormanları'na pikniğe giderdik, kaya mezarlarını uzaktan gösterirlerdi, "burada eskiden bir antik kent varmış" derlerdi. Ama o "eskiden" kelimesinin ardında ne kadar derin bir zaman katmanı yattığını yıllar sonra, gerçekten araştırmaya başlayınca anladım.
 
-Dülük — antik adıyla **Doliche** — sadece bir antik kent değil. Bu, insanlık tarihinin neredeyse tamamını tek bir tepede sıkıştırılmış bir palimpsest (üzerine sürekli yazı yazılmış, silinmiş ve yeniden yazılmış parşömen). Paleolitik dönemden Hititlere, Hititlerden Roma'ya, Roma'dan Bizans'a, Bizans'tan İslam'a, İslam'dan Osmanlı'ya ve nihayet günümüze... Her medeniyet bu topraklara bir şey yazdı, bir şey sildi, bir şey bıraktı.
+Dülük antik adıyla **Doliche** sadece bir antik kent değil. Bu, insanlık tarihinin neredeyse tamamını tek bir tepede sıkıştırılmış bir palimpsest (üzerine sürekli yazı yazılmış, silinmiş ve yeniden yazılmış parşömen). Paleolitik dönemden Hititlere, Hititlerden Roma'ya, Roma'dan Bizans'a, Bizans'tan İslam'a, İslam'dan Osmanlı'ya ve nihayet günümüze... Her medeniyet bu topraklara bir şey yazdı, bir şey sildi, bir şey bıraktı.
 
-Ve en çarpıcı olanı şu: Bu küçük Anadolu köyünden çıkan bir tanrı, **Jupiter Dolichenus**, bir zamanlar Roma İmparatorluğu'nun dört bir yanına — İngiltere'den Kırım'a, Almanya'dan Kuzey Afrika'ya — yayıldı. Dünyanın en büyük imparatorluklarından birinin askerleri, Gaziantep'in bu tepesinde doğan bir tanrıya tapıyordu. Bizim şehrimizden, dünyaya giden bir inanç dalgasından söz ediyoruz.
+Ve en çarpıcı olanı şu: Bu küçük Anadolu köyünden çıkan bir tanrı, **Jupiter Dolichenus**, bir zamanlar Roma İmparatorluğu'nun dört bir yanına İngiltere'den Kırım'a, Almanya'dan Kuzey Afrika'ya yayıldı. Dünyanın en büyük imparatorluklarından birinin askerleri, Gaziantep'in bu tepesinde doğan bir tanrıya tapıyordu. Bizim şehrimizden, dünyaya giden bir inanç dalgasından söz ediyoruz.
 
 Bu belge, o yolculuğun derinlemesine bir arşivi. Türkçe, Almanca, İngilizce kaynakları tarayarak, kazı raporlarını okuyarak, akademik yayınları inceleyerek hazırladım. Her bilgi, kaynağıyla birlikte verilmiştir. Çelişkiler gizlenmemiş, açıkça gösterilmiştir. Bu, Gaziantep'in geçmişine ve geleceğine adanmış kalıcı bir bilgi arşividir.
 
@@ -57,9 +64,9 @@ Fırat Nehri'ne yaklaşık 40 km, antik Samosata'ya (bugünkü Samsat) ise 30 Ro
 
 Doliche'nin arkeolojik manzarası iki tepe üzerine kuruludur:
 
-**Keber Tepe** — Eyer biçimli doğal bir yükselti olan bu tepe, antik kentin yerleşim alanını barındırır. Bugün tarımsal amaçlarla kullanıldığı için yüzeyde bina kalıntısı görünmez; ama tam da bu yüzden, altındaki antik kent katmanları korunmuştur. Tepenin üzerinde MS 4. yüzyıla ait bir kilise ve yaklaşık MS 2. yüzyıla ait bir Roma hamam kompleksi bugüne kadar ortaya çıkarılmıştır ([Münster – The Two Hills of Doliche](https://www.doliche.uni-muenster.de/tr/the-two-hills-of-doliche/)). Keber Tepe'nin batı yamacında **Şarklı Mağara** (Paleolitik kaya sığınağı) ve hemen karşısında **Çimşit Tepe** (çakmaktaşı atölyeleri ve kaya mezarları nekropolü) yer alır ([Münster – Paläolithikum](https://www.doliche.uni-muenster.de/fundgattungen/palaeolithikum/)).
+**Keber Tepe** Eyer biçimli doğal bir yükselti olan bu tepe, antik kentin yerleşim alanını barındırır. Bugün tarımsal amaçlarla kullanıldığı için yüzeyde bina kalıntısı görünmez; ama tam da bu yüzden, altındaki antik kent katmanları korunmuştur. Tepenin üzerinde MS 4. yüzyıla ait bir kilise ve yaklaşık MS 2. yüzyıla ait bir Roma hamam kompleksi bugüne kadar ortaya çıkarılmıştır ([Münster – The Two Hills of Doliche](https://www.doliche.uni-muenster.de/tr/the-two-hills-of-doliche/)). Keber Tepe'nin batı yamacında **Şarklı Mağara** (Paleolitik kaya sığınağı) ve hemen karşısında **Çimşit Tepe** (çakmaktaşı atölyeleri ve kaya mezarları nekropolü) yer alır ([Münster – Paläolithikum](https://www.doliche.uni-muenster.de/fundgattungen/palaeolithikum/)).
 
-**Dülük Baba Tepesi** — Antik kentin yaklaşık 3 km güneyinde, 1204–1211 metre yüksekliğinde (kaynaklara göre değişir) bir dağ. Jupiter Dolichenus'un merkezî kutsal alanı buradaydı. Tepenin zirvesi, kentin güneyini gözetler ve Gaziantep'e hâkim bir konumdadır ([Münster – Project Dülük Baba Tepesi](https://www.doliche.uni-muenster.de/en/project-dueluek-baba-tepesi/); [Almanca Wikipedia](https://de.wikipedia.org/wiki/Doliche)). Bugün bu tepe, Dülükbaba Tabiat Parkı ve ormanlarıyla birlikte şehrin "nefes alanı" işlevini görüyor.
+**Dülük Baba Tepesi**  Antik kentin yaklaşık 3 km güneyinde, 1204–1211 metre yüksekliğinde (kaynaklara göre değişir) bir dağ. Jupiter Dolichenus'un merkezî kutsal alanı buradaydı. Tepenin zirvesi, kentin güneyini gözetler ve Gaziantep'e hâkim bir konumdadır ([Münster – Project Dülük Baba Tepesi](https://www.doliche.uni-muenster.de/en/project-dueluek-baba-tepesi/); [Almanca Wikipedia](https://de.wikipedia.org/wiki/Doliche)). Bugün bu tepe, Dülükbaba Tabiat Parkı ve ormanlarıyla birlikte şehrin "nefes alanı" işlevini görüyor.
 
 > *Antepli olarak gururla söyleyebilirim: şehrimizin eteklerinde yetiştiği ormanlar, antik dünyanın en önemli kutsal alanlarından birinin bulunduğu dağdır. Piknik yaptığımız çimenlerin altında, 3000 yıl önce kurban kesilmiş kült alanları yatıyor.*
 
@@ -173,7 +180,7 @@ Doliche'nin refah dönemi şiddetli biçimde sona erdi: Sasani kralı **I. Şapu
 
 ## 8. Jupiter Dolichenus: Antep'ten Dünyaya Yayılan Bir Tanrı <a name="8-jupiter-dolichenus"></a>
 
-Bu bölüm, belki de bir Gaziantepli olarak en çok gurur duyduğum kısım. Çünkü bizim şehrimizden çıkan bir tanrı, tüm Roma İmparatorluğu'na yayıldı.
+Bu bölüm, belki de bir Gaziantepli olarak en çok şaşırdığım kısım. Çünkü bizim şehrimizden çıkan bir tanrı, tüm Roma İmparatorluğu'na yayıldı.
 
 ### Köken ve Dönüşüm
 
@@ -648,7 +655,7 @@ Bu belge, 9 Ağustos 2026 tarihinde, Türkçe, Almanca ve İngilizce kaynaklar t
 
 ---
 
-**Hazırlayan: Bir Gaziantepli**
+**Hazırlayan: KK**
 
 ---
 
