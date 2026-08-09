@@ -30,10 +30,11 @@ theme = 'PaperMod'
     Content = "Antik çağlardan dijital dünyaya uzanan kişisel notlar. Yazılım, açık kaynak teknolojiler, elektronik, dijital sistemler ve bağımsız projeler üzerine teknik rehberler ve güncel yazılar."
 
 # Sitenin Üst Menüsü (Etiketler çıkarıldı)
+# Sitenin Üst Menüsü
 [[menu.main]]
-  identifier = "posts"
-  name = "Yazılar"
-  url = "/posts/"
+  identifier = "about"
+  name = "Hakkımda"
+  url = "/about/"
   weight = 10
 
 [[menu.main]]
