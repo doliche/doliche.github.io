@@ -6,7 +6,7 @@ draft: false
 
 Türkiye'de UFO ve Uzaylı Görme Vakaları: Osmanlı'dan Gaziantep'e Tarihçe ve Kaynaklar
 
-*Tarih: 9 Ağustos 2026, Gaziantep*
+*Tarih: 7 Ağustos 2026, Gaziantep*
 
 > "Bu dosyaya başlarken komplo kuyusuna düşmemeye çalıştım. Kuyu da pek derindi, kabul."
 
