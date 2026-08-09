@@ -4,7 +4,6 @@ date: 2026-08-05
 draft: false
 ---
 
-# DOLICHE / DÜLÜK: Gaziantep'in 600.000 Yıllık Hafızası
 
 ### Derinlikli Arşiv Çalışması
 
