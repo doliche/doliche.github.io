@@ -9,7 +9,7 @@ theme = 'PaperMod'
 
   # Favicon Ayarı (static/ klasörüne yüklediğiniz dosya)
   [params.assets]
-    favicon = "favicon.ico"
+    favicon = "/favicon.ico"
 
   # Ana Sayfa Karşılama Notu
   [params.homeInfoParams]
