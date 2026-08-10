@@ -1,8 +1,8 @@
-
-title: "Petrol Gerçekten Bitecek mi? 
-tags: ["enerji", "doğal kaynaklar", "petrol", "araştırma"]
 ---
-
+title: "Petrol Gerçekten Bitecek mi?" 
+date: 2026-08-10
+draft: false
+---
 Bir süredir kafamı kurcalayan bir soru var: küçüklüğümden beri "petrol bitiyor, dikkat" diye duyuyorum, ama petrol hâlâ burada. Bu sefer işin kaynağına inip gerçekten oturup baktım hem petrolün kendisine hem de "petrol mü, taş mı" tartışmasına, hem de aslında petrolden çok daha acil bitme tehlikesi olan başka şeylere. Sonuç beklediğimden ilginç çıktı, paylaşayım istedim.
 
 ## Petrol gerçekten bir gün biter mi?
