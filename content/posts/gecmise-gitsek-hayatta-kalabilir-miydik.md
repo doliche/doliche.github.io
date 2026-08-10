@@ -1,6 +1,6 @@
 ---
 title: "Bugünün Bilgisiyle Geçmişe Gitsek Hayatta Kalabilir Miydik?"
-date: 2026-08-11
+date: 2026-08-11T09:00:48+03:00
 draft: false
 tags: ["düşünce deneyi", "tarih", "zaman yolculuğu", "bilim tarihi", "teknoloji"]
 categories: ["Düşünce"]
