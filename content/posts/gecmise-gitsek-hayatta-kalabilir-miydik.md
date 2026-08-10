@@ -1,7 +1,7 @@
 ---
 title: "Bugünün Bilgisiyle Geçmişe Gitsek Hayatta Kalabilir Miydik?"
 date: 2026-08-10
-draft: true
+draft: false
 tags: ["düşünce deneyi", "tarih", "zaman yolculuğu", "bilim tarihi", "teknoloji"]
 categories: ["Düşünce"]
 description: "Modern bilgiyle donanmış biri geçmişe gitse hayatta kalabilir, tarihi değiştirebilir miydi? Bilgi, beceri ve uygarlığın katmanlı yapısı üzerine bir düşünce deneyi."
